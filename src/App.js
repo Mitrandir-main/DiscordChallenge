@@ -13,7 +13,7 @@ function App(props) {
           name="loading"
           color="primary"
         />
-        <div>Female</div>
+        <div>Male</div>
       </div>
     </div>
   );
