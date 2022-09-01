@@ -8,7 +8,7 @@ function App(props) {
       <h1>My name is {props.name}</h1>
       <h1>Age: 21</h1>
       <div style={{ display: "flex" }}>
-        <div>Male</div>
+        <div>Male/ or else</div>
         <Switch
           name="loading"
           color="primary"
